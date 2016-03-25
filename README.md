@@ -3,7 +3,7 @@
 ## Preface
 
 ### Features
-Shop Crawler 프로젝트는 스칼라 기반의 라이브러리로 (국내) 온라인 쇼핑몰 상품 링크(Web Link)를 Crawling 과 Scraping 하여 상품과 가맹점의 메타 데이터를 추출, 구성, 추론한다.
+Shop Crawler 프로젝트는 스칼라 기반의 라이브러리로 (국내) 온라인 쇼핑몰 상품 링크(HTTP URI)를 Crawling 과 Scraping 하여 상품과 가맹점의 메타 데이터를 추출, 구성, 추론한다.
 
 * 상품에 대한 메타 데이터를 추출한다.
 * 상품의 메타 데이터를 이용하여 상품 간 동일 여부를 측정, 추론한다.
